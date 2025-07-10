@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87561364158",
+    "project_id": "trabajo-final-ucb",
+    "storage_bucket": "trabajo-final-ucb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87561364158:android:afe6b0314c320d8d0fb4ef",
+        "android_client_info": {
+          "package_name": "com.example.trabajo_final_ucb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC58_E2pUWHroUVP9ngi0d6Ri6SuUxriPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
